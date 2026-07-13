@@ -1,0 +1,5 @@
+function App() {
+  return <h1>CI/CD Test</h1>;
+}
+
+export default App;
